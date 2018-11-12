@@ -11,7 +11,6 @@ $ npm install react-native-expo-viewport-units --save
 import { vw, vh, vmin, vmax } from 'react-native-expo-viewport-units';
 ```
 
-Notice the required operator/syntax: __x * vw__
 ```javascript
 <View style={{ width: vw(100), height: vh(100) }}>
   ...
