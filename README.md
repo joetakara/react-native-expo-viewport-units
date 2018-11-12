@@ -33,4 +33,4 @@ var styles = StyleSheet.create({
 ```
 
 ## License
-MIT © [Joe Takara](https://joetakara.com).
+MIT © Joe Takara
