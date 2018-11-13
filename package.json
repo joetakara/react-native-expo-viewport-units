@@ -1,6 +1,6 @@
 {
   "name": "react-native-expo-viewport-units",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Viewport units: vw, vh, vmin, vmax - React Native.",
   "license": "MIT",
   "repository": {
@@ -12,6 +12,9 @@
     "url": "anuchit.boonsom@gmail.com"
   },
   "main": "index",
+  "resolutions": {
+    "@types/react": "*"
+  },
   "keywords": [
     "react",
     "react-native",
