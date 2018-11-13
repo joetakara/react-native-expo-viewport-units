@@ -7,7 +7,7 @@
   "author": {
     "name": "Joe Takara"
   },
-  "main": "units.js",
+  "main": "units",
   "peerDependencies": {
     "react-native": ">= 0.4.4 < 1.0"
   },
