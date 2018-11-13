@@ -3,7 +3,7 @@ Viewport units: vw, vh, vmin, vmax - [React Native](https://github.com/facebook/
 
 ## Install
 ```sh
-$ npm install react-native-expo-viewport-units --save
+$ npm install react-native-expo-viewport-units
 ```
 
 or
