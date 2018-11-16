@@ -12,9 +12,7 @@
     "url": "anuchit.boonsom@gmail.com"
   },
   "main": "index",
-  "resolutions": {
-    "@types/react": "*"
-  },
+  "types": "index",
   "keywords": [
     "react",
     "react-native",
