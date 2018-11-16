@@ -31,7 +31,7 @@ var styles = StyleSheet.create({
     padding: vw(2.5),
     margin: vh(5),
   },
-  Text: {
+  Font: {
     fontSize: vw(3.75),
   },
 });
