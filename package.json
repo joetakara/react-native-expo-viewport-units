@@ -11,8 +11,8 @@
     "name": "Joe Takara",
     "url": "anuchit.boonsom@gmail.com"
   },
-  "main": "index",
-  "types": "index",
+  "main": "index.js",
+  "types": "index.js",
   "keywords": [
     "react",
     "react-native",
