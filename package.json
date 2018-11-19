@@ -3,16 +3,24 @@
   "version": "0.0.7",
   "description": "Viewport units: vw, vh, vmin, vmax - React Native.",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "joetakara/react-native-expo-viewport-units"
-  },
-  "author": {
+    "author": {
     "name": "Joe Takara",
     "url": "anuchit.boonsom@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joetakara/react-native-expo-viewport-units.git"
+  },
   "main": "index.js",
-  "types": "index.js",
+    "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.0",
+    "eslint": "^4.0.0",
+    "eslint-plugin-react": "^7.0.0"
+  },
   "keywords": [
     "react",
     "react-native",
