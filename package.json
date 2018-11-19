@@ -12,7 +12,7 @@
     "url": "git://github.com/joetakara/react-native-expo-viewport-units.git"
   },
   "main": "index.js",
-    "peerDependencies": {
+  "peerDependencies": {
     "react": "*",
     "react-native": "*"
   },
